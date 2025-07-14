@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches: 5.31.1)",
-  "versionCode": 47,
-  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/47/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.13.41 (patches: 5.31.2)",
+  "versionCode": 48,
+  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/48/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/aihara87/revanced-magisk/update/build.md"
 }
