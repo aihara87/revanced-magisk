@@ -1,6 +1,6 @@
 {
-  "version": "v7.36.0.779865778 (patches: 5.31.2)",
-  "versionCode": 48,
-  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/48/googlephotos-revanced-magisk-v7.36.0.779865778-arm-v7a.zip",
+  "version": "v7.40.0.790840830 (patches: 5.33.0)",
+  "versionCode": 50,
+  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/50/googlephotos-revanced-magisk-v7.40.0.790840830-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/aihara87/revanced-magisk/update/build.md"
 }
