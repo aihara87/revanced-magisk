@@ -1,6 +1,6 @@
 {
-  "version": "v7.29.52 (patches: 5.37.0)",
-  "versionCode": 54,
-  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/54/music-revanced-magisk-v7.29.52-arm-v7a.zip",
+  "version": "v7.29.52 (patches: 5.38.0)",
+  "versionCode": 55,
+  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/55/music-revanced-magisk-v7.29.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/aihara87/revanced-magisk/update/build.md"
 }
