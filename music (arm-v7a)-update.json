@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches: 5.41.0)",
-  "versionCode": 58,
-  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/58/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches: 5.42.1)",
+  "versionCode": 59,
+  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/59/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/aihara87/revanced-magisk/update/build.md"
 }
