@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.40.0.mpp)",
-  "versionCode": 68,
-  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/68/music-morphe-module-v9.15.51-arm-v7a.zip",
+  "version": "v9.15.51 (patches 1.41.0.mpp)",
+  "versionCode": 69,
+  "zipUrl": "https://github.com/aihara87/revanced-magisk/releases/download/69/music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/aihara87/revanced-magisk/update/build.md"
 }
